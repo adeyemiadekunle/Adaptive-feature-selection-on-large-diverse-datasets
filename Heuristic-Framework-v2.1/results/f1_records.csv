@@ -1,0 +1,49 @@
+dataset,model,fs_strategy,sample_idx,f1
+Breast Cancer,LogisticRegression,none,0,0.941747572815534
+Breast Cancer,LogisticRegression,none,1,0.9807692307692307
+Breast Cancer,LogisticRegression,heuristic,2,0.941747572815534
+Breast Cancer,LogisticRegression,heuristic,3,0.9807692307692307
+Breast Cancer,LDA,none,4,0.9306930693069307
+Breast Cancer,LDA,none,5,0.94
+Breast Cancer,LDA,heuristic,6,0.9306930693069307
+Breast Cancer,LDA,heuristic,7,0.94
+Breast Cancer,RandomForest,none,8,0.9326923076923077
+Breast Cancer,RandomForest,none,9,0.9473684210526315
+Breast Cancer,RandomForest,heuristic,10,0.9326923076923077
+Breast Cancer,RandomForest,heuristic,11,0.9473684210526315
+Breast Cancer,XGBoost,none,12,0.9282296650717703
+Breast Cancer,XGBoost,none,13,0.957345971563981
+Breast Cancer,XGBoost,heuristic,14,0.9282296650717703
+Breast Cancer,XGBoost,heuristic,15,0.957345971563981
+Bank Marketing,LogisticRegression,none,16,0.5305071315372425
+Bank Marketing,LogisticRegression,none,17,0.5259598169882633
+Bank Marketing,LogisticRegression,heuristic,18,0.2626105044201768
+Bank Marketing,LogisticRegression,heuristic,19,0.26805194805194804
+Bank Marketing,LDA,none,20,0.4549256505576208
+Bank Marketing,LDA,none,21,0.4770350159163256
+Bank Marketing,LDA,heuristic,22,0.16362530413625304
+Bank Marketing,LDA,heuristic,23,0.19093365355749023
+Bank Marketing,RandomForest,none,24,0.5644651162790698
+Bank Marketing,RandomForest,none,25,0.5533259011519881
+Bank Marketing,RandomForest,heuristic,26,0.25500732779677576
+Bank Marketing,RandomForest,heuristic,27,0.2682543248708156
+Bank Marketing,XGBoost,none,28,0.5784966698382493
+Bank Marketing,XGBoost,none,29,0.5866916588566073
+Bank Marketing,XGBoost,heuristic,30,0.2911242603550296
+Bank Marketing,XGBoost,heuristic,31,0.3212457337883959
+CIFAR-10,LogisticRegression,none,32,0.29508717696389164
+CIFAR-10,LogisticRegression,none,33,0.29431905700231975
+CIFAR-10,LogisticRegression,heuristic,34,0.22367533920028906
+CIFAR-10,LogisticRegression,heuristic,35,0.21474706545570404
+CIFAR-10,LDA,none,36,0.19693891269084793
+CIFAR-10,LDA,none,37,0.1835168408217882
+CIFAR-10,LDA,heuristic,38,0.15060369261107007
+CIFAR-10,LDA,heuristic,39,0.19393042414083095
+CIFAR-10,RandomForest,none,40,0.3183111607837243
+CIFAR-10,RandomForest,none,41,0.3611727946721196
+CIFAR-10,RandomForest,heuristic,42,0.2311580228484344
+CIFAR-10,RandomForest,heuristic,43,0.23379679208692755
+CIFAR-10,XGBoost,none,44,0.29014175698596184
+CIFAR-10,XGBoost,none,45,0.35096524837347876
+CIFAR-10,XGBoost,heuristic,46,0.22158814907976299
+CIFAR-10,XGBoost,heuristic,47,0.22197508273904312

@@ -1,0 +1,8 @@
+numpy<2
+matplotlib
+seaborn
+pandas
+shap
+xgboost
+ucimlrepo
+imbalanced-learn

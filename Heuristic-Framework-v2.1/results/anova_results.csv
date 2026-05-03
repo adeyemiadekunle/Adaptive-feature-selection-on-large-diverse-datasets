@@ -1,0 +1,4 @@
+dataset,F_statistic,p_value,significant_0_05
+Breast Cancer,0.0,1.0,False
+Bank Marketing,129.8223195869182,1.8138132393280325e-08,True
+CIFAR-10,9.023729910259883,0.009476975488740765,True

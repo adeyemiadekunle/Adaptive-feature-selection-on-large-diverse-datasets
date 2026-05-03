@@ -1,0 +1,4 @@
+dataset,samples,features,classes,p_to_n
+Breast Cancer,569,30,2,0.05272407732864675
+Bank,45211,47,2,0.001039570016146513
+CIFAR,1000,3072,10,3.072

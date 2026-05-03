@@ -1,0 +1,13 @@
+dataset,model,comparison,t_statistic,p_value,significant_0_05,cohen_d
+Breast Cancer,LogisticRegression,heuristic vs none,,,False,
+Breast Cancer,LDA,heuristic vs none,,,False,
+Breast Cancer,RandomForest,heuristic vs none,,,False,
+Breast Cancer,XGBoost,heuristic vs none,,,False,
+Bank Marketing,LogisticRegression,heuristic vs none,588.0632966455646,0.0010825691084007626,True,-415.82354482499505
+Bank Marketing,LDA,heuristic vs none,111.06048832528039,0.005732034663244032,True,-78.53162441669515
+Bank Marketing,RandomForest,heuristic vs none,282.06397992044555,0.002256995399830754,True,-199.44935293021322
+Bank Marketing,XGBoost,heuristic vs none,25.212356166547032,0.025237080097300853,True,-17.827828015055875
+CIFAR-10,LogisticRegression,heuristic vs none,18.502571559928082,0.03437365411057156,True,-13.083293819414502
+CIFAR-10,LDA,heuristic vs none,1.2012053361684332,0.44196982563522047,False,-0.8493804388021656
+CIFAR-10,RandomForest,heuristic vs none,5.333512229616987,0.11799230193509667,False,-3.7713626651035543
+CIFAR-10,XGBoost,heuristic vs none,3.2686139145932755,0.18901079328750442,False,-2.3112590640896116
